@@ -1,0 +1,3 @@
+/usr/bin/google-chrome-stable %U --proxy-server="https=127.0.0.1:9999" --proxy-bypass-list="*.local"
+or
+/usr/bin/google-chrome-stable %U --proxy-pac-url=http://127.0.0.1/proxy.pac
